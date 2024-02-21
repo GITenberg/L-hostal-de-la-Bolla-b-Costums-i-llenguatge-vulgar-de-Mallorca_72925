@@ -1,11 +1,16 @@
 _repo: L-hostal-de-la-Bolla-b-Costums-i-llenguatge-vulgar-de-Mallorca_72925
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Oliver, Miquel dels Sants
     gutenberg_agent_id: '56863'
     url: http://www.gutenberg.org/2009/agents/56863
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72925#L-hostal-de-la-Bolla-b-Costums-i-llenguatge-vulgar-de-Mallorca
 gutenberg_issued: '2024-02-10'
 gutenberg_type: Text
 identifiers:
